@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# Build artifacts (we only need dist/)
+src/
+public/
+*.ts
+*.tsx
+*.json
+!package.json
+
+# Config files
+vite.config.ts
+tsconfig*.json
+tailwind.config.js
+postcss.config.js
+
+# Development files
+*.md
+!README.md
+
+# Database files
+*.sql
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+.DS_Store
+chat/
