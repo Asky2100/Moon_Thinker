@@ -20,6 +20,12 @@ Moon Thinker 通过"问题驱动 + 立场分流 + 结构化评论 + AI 分析"�
 [![ModelScope](https://img.shields.io/badge/魔搭创空间-在线体验-blue)](https://www.modelscope.cn/studios/Taunomodel/Moon_Talk)
 [![GitHub](https://img.shields.io/badge/GitHub-开源代码-black)](https://github.com/Asky2100/Moon_Thinker)
 
+## 🎬 演示视频
+
+<https://github.com/Asky2100/Moon_Thinker/releases/download/v1.0.0/Moon_Talk.mp4>
+
+*完整的产品演示，展示了核心功能和交互流程*
+
 ## 📖 项目简介
 
 ### 核心问题
