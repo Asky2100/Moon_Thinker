@@ -1,4 +1,16 @@
-# AI React Website Template
+---
+# Moon Thinker - AI-powered Thinking Assistant
+domain:
+  - multi-modal
+tags:
+  - AI
+  - React
+  - TypeScript
+  - Gradio
+license: Apache License 2.0
+---
+
+# Moon Thinker
 
 A flexible, feature-rich React template designed for AI-generated websites with modern development tools and libraries.
 
@@ -59,12 +71,17 @@ src/
 ├── api/             # API related code
 ├── assets/          # Static assets
 ├── components/      # Reusable components
-├── layouts/         # Layout components  
+├── layouts/         # Layout components
 ├── pages/           # Page components
 ├── styles/          # Style files
 ├── types/           # TypeScript type definitions
 ├── App.tsx          # Main application component
 └── main.tsx         # Application entry point
+```
+
+## Clone with HTTP
+```bash
+git clone https://www.modelscope.cn/studios/Taunomodel/Moon_Thinker.git
 ```
 
 ## More Information
